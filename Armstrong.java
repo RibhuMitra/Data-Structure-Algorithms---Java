@@ -1,5 +1,5 @@
 import java.util.*;
-public class SwingCalc {
+public class Armstrong {
     public static void main(String[] args) {
     	int power = 0, dig = 1;
     	Scanner sc = new Scanner(System.in);
